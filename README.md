@@ -13,10 +13,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  
-  <!--
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  -->
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="550" height="300"/>
   
 </div>
 
@@ -27,4 +24,13 @@
 - 🔭 I'm currently working on a game made in Rust
 - 🌱 Learning as much as I can
 - ⚡ In my free time, I watch programming videos and play some ClashOfCodes
-- 
+- 🔍 Looking for new proyects and experiences
+
+---
+
+### 🛠️ Languages and tools :
+
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="40" height="40">
+  
+</div>
