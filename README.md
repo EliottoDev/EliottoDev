@@ -1,7 +1,3 @@
-<audio loop volume="0.1">
-  <source src="./the_nights.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
