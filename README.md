@@ -8,6 +8,7 @@ I have a deep interest in technology and software development. I enjoy exploring
 ## 📂 Projects
 
 - 🧑‍💻**Portfolio**: My own webpage made with NextJS and ❤️!
+- 📋**ACT-IV**: A collaborational project of a solution to file synchronization problem.
 - 🪙**Aureo** (in progress): A full stack finances app with a modern looking.
 
 Coming soon: **Lyra**
