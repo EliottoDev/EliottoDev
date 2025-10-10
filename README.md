@@ -2,23 +2,6 @@
 
 Welcome to my github profile!
 
-## 🌱 About me
-I have a deep interest in technology and software development. I enjoy exploring new technologies, improving my skills, and finding innovative solutions to problems. Sharing knowledge and collaborating with others in the community is something I truly value.
-
-## 📂 Projects
-
-- 🧑‍💻**Portfolio**: My own webpage made with NextJS and ❤️!
-- 📋**ACT-IV**: A collaborational project of a solution to file synchronization problem.
-- 🪙**Aureo**: A finances app with a modern looking.
-
-Coming soon: **Lyra**, **Solis** & **Grafi**
-
-## 🛠️ Techs & Tools
-- 💻 Languages: JavaScript, TypeScript, C/C++, C#, Java, Go, Rust, Python
-- 🛠️ Frameworks & Libraries: React, Node.js, Django, Angular, .NET, Spring
-- 🗄️ Databases: MySQL, MongoDB, PostgreSQL
-- 🛠️ Toolkit: Git, Docker, Postman
-
 ## 📫 Get in touch
 - 📧 Email: elias.dinarett@gmail.com
 - 💼 LinkedIn: [Elias (EliottoDev) Dinar Ettouizi](https://linkedin.com/in/eliasdinett)
